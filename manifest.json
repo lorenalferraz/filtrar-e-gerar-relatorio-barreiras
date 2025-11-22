@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-barreiras",
+  "label": "Calculadora Barreiras",
+  "type": "widget",
+  "version": "1.19.0",
+  "exbVersion": "1.18.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "Widget de Calculadora de Compensação para a regional de Barreiras, que permite analisar múltiplos IDEA, fazer upload de shapefile ou desenhar área no mapa, e gera relatórios de análise de compensação usando geoprocessamento.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 450,
+    "height": 600
+  }
+}
